@@ -1,0 +1,19 @@
+.icons{
+    padding: 10px;
+    font-size: 40px;
+}
+
+.earning{
+    padding-bottom: 200px;
+}
+
+.client-details :hover{
+    color:darkgreen;
+    font-weight: bolder;
+}
+
+/* .container{
+    background-image: linear-gradient(rgb(104, 245, 134) rgb(56, 183, 56));
+} */
+
+.sign-in
