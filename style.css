@@ -7,14 +7,6 @@
     padding-bottom: 200px;
 }
 
-.client-details :hover{
-    color:darkgreen;
-    font-weight: bolder;
-}
-
-.row-signin{
-    background-color: rgb(131, 255, 104);
-} 
 
 .background{
     background-image: url(img/images/banner4.jpg);
@@ -22,7 +14,19 @@
     height: 100vh;
 }
 
-.our-feature :hover{
-    color: lightgreen;
-    
+.feature-detail :hover{
+    color: #39FF14;
+}
+
+.founder-detail :hover{
+    color: #39FF14;
+}
+
+.sign-in {
+    background: linear-gradient(to right, #009933 0%, #66ff33 38%);
+
+}
+
+.feature-items-3{
+    padding-bottom: 18px;
 }
