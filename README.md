@@ -1,1 +1,1 @@
-# seedkaro-project
+http://localhost/seedkaro-project/
